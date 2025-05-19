@@ -23,6 +23,8 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 
 ### Technical Paper
 
+- **[Hugging Face]** CircleGuardBench: New Standard for Evaluating AI Moderation Models [[Blog]](https://huggingface.co/blog/whitecircle-ai/circleguardbench)
+
 - **[NDSS'25]** I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving [[Paper]](https://arxiv.org/abs/2409.20002v2)
 
 - **[ICSE'25]** Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses [[Paper]](https://syssec.dpss.inesc-id.pt/papers/pedro_icse25.pdf)
